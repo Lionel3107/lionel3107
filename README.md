@@ -8,8 +8,8 @@
 
 - 🌱 I’m currently learning **Data analysis and Visualisation, AI model, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [lionel3107.github.io](lionel3107.github.io)
-https://gifdb.com/gif/computer-system-coding-j3szfjv9fwb5at9x.html
+- 👨‍💻 All of my projects are available at [https://github.com/Lionel3107](https://github.com/Lionel3107)
+
 - 💬 Ask me about **JavaScript**
 
 - 📫 How to reach me **dlmsonelterror@gmail.com**
